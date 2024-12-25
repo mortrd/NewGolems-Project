@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Aim
+  - Enemy
+  - Arrow
+  - CasttleHealth
+  - Gate
+  - CastleHealth
+  - ShootPoint
+  - Body
+  - TargerNow
+  - Gold
+  - Manager
+  - Enterance
+  - Miner
+  - Spawner
+  - EXP
+  - HeroStop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EnemyMask
+  - GateLayer
+  - Fire
+  - Frost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: top
+    uniqueID: 1765957485
+    locked: 0
+  - name: TOP
+    uniqueID: 4077487459
+    locked: 0
+  - name: Top top
+    uniqueID: 2023066385
+    locked: 0
